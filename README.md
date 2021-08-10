@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ini adalah judul
+<title>Ini adalah judul</title>
 </head>
 
 <body>
